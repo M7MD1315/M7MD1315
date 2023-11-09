@@ -24,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m7md1315&show_icons=true&locale=en" alt="m7md1315" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7md1315&" alt="m7md1315" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
