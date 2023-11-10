@@ -26,4 +26,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m7md1315&" alt="m7md1315" /></p>
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 08 November 2023 - To: 09 November 2023
+
+Total Time: 0 secs
+
+XML      0 secs          >>>>>>>>>>>>>>>>>>>>>>>--   91.40 %
+Kotlin   0 secs          >>-----------------------   08.60 %
+```
+
 <!--END_SECTION:waka-->
